@@ -1,0 +1,6 @@
+kafka_2.13-4.0.1/
+venv/
+venv_scaler/
+venv_stream/
+kafka_2.13-4.0.1.tgz
+running.txt

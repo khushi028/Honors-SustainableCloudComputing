@@ -1,0 +1,5 @@
+kafka-python
+numpy
+scikit-learn
+joblib
+xgboost

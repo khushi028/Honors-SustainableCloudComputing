@@ -1,0 +1,4 @@
+boto3
+kafka-python
+numpy
+scikit-learn
